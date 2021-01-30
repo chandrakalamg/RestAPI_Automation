@@ -1,0 +1,12 @@
+Testcases\TC00_PingAPI.class
+com\testbase\Test_Init.class
+Testcases\TC002_GetBooking.class
+Testcases\TC_basetest.class
+Testcases\TC004_PartialUpdateBooking.class
+junk\API_Tests.class
+Testcases\TC001_GetBookingIds.class
+Testcases\TC005_UpdateBooking.class
+Testcases\TC003_1Create_Booking.class
+junk\TC003_CreateBooking.class
+Testcases\TC000_Get_Auth_Token.class
+Testcases\TC006_DeleteBooking.class

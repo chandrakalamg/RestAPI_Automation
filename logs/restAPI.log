@@ -1,0 +1,1169 @@
+2021-01-30 10:46:06 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:46:06 INFO  restful-Booking_APITesting:68 - -----Getting Authentication Token----
+2021-01-30 10:47:39 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:47:39 INFO  restful-Booking_APITesting:68 - -----Getting Authentication Token----
+2021-01-30 10:53:27 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:53:27 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:53:27 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 10:54:57 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:54:57 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:54:57 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 10:56:39 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:56:39 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:56:39 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 10:57:15 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:57:15 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:57:15 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 10:57:50 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:57:50 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:57:50 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 10:58:26 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 10:58:26 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 10:58:26 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 11:13:16 INFO  restful-Booking_APITesting:22 - -----Getting Authentication Token----
+2021-01-30 11:13:16 INFO  restful-Booking_APITesting:49 - ***********  Checking Respose Body **********
+2021-01-30 11:13:16 INFO  restful-Booking_APITesting:76 - -----Getting Authentication Token----
+2021-01-30 11:37:19 INFO  restful-Booking_APITesting:48 - ***********  Checking statuscode **********
+2021-01-30 11:40:21 INFO  restful-Booking_APITesting:40 - ***********  Checking statuscode **********
+2021-01-30 11:40:21 INFO  restful-Booking_APITesting:42 - Status Code :200
+2021-01-30 12:12:37 INFO  restful-Booking_APITesting:23 - ***********  Capture Auth Token - Started **********
+2021-01-30 12:12:42 INFO  restful-Booking_APITesting:47 - ***********  Checking statuscode **********
+2021-01-30 12:12:42 INFO  restful-Booking_APITesting:49 - Status Code :200
+2021-01-30 12:12:42 INFO  restful-Booking_APITesting:52 - ***********  Checking Token **********
+2021-01-30 12:12:42 INFO  restful-Booking_APITesting:70 - ***********  Capture Auth Token - Completed**********
+2021-01-30 12:36:53 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 12:36:57 INFO  restful-Booking_APITesting:47 - ***********  Checking statuscode **********
+2021-01-30 12:36:57 INFO  restful-Booking_APITesting:49 - Status Code :200
+2021-01-30 12:36:57 INFO  restful-Booking_APITesting:52 - ***********  Checking Token **********
+2021-01-30 12:36:58 INFO  restful-Booking_APITesting:56 - Authtoken is generated :e8e43333a068c50
+2021-01-30 12:36:59 INFO  restful-Booking_APITesting:49 - ***********  Partial update Booking - Completed **********
+2021-01-30 12:38:52 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 12:38:56 INFO  restful-Booking_APITesting:47 - ***********  Checking statuscode **********
+2021-01-30 12:38:56 INFO  restful-Booking_APITesting:49 - Status Code :200
+2021-01-30 12:38:56 INFO  restful-Booking_APITesting:52 - ***********  Checking Token **********
+2021-01-30 12:38:57 INFO  restful-Booking_APITesting:56 - Authtoken is generated :b25ea9d0cba4628
+2021-01-30 12:38:58 INFO  restful-Booking_APITesting:49 - ***********  Partial update Booking - Completed **********
+2021-01-30 12:39:47 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 12:39:51 INFO  restful-Booking_APITesting:47 - ***********  Checking statuscode **********
+2021-01-30 12:39:51 INFO  restful-Booking_APITesting:49 - Status Code :200
+2021-01-30 12:39:51 INFO  restful-Booking_APITesting:52 - ***********  Checking Token **********
+2021-01-30 12:39:52 INFO  restful-Booking_APITesting:56 - Authtoken is generated :bfc23543235f76e
+2021-01-30 12:39:53 INFO  restful-Booking_APITesting:49 - ***********  Partial update Booking - Completed **********
+2021-01-30 12:49:53 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 12:49:56 INFO  restful-Booking_APITesting:48 - ***********  Checking Respose Body **********
+2021-01-30 12:49:57 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [7, 6, 3, 2, 8, 10, 23, 17, 18, 21, 1, 13, 9, 22, 15, 12, 19, 20, 11, 5, 16, 14, 4]
+2021-01-30 12:49:57 INFO  restful-Booking_APITesting:54 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 12:50:37 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 12:50:41 INFO  restful-Booking_APITesting:48 - ***********  Checking Respose Body **********
+2021-01-30 12:50:41 INFO  restful-Booking_APITesting:50 - Response Body==>[{"bookingid":7},{"bookingid":6},{"bookingid":3},{"bookingid":2},{"bookingid":8},{"bookingid":10},{"bookingid":23},{"bookingid":17},{"bookingid":18},{"bookingid":21},{"bookingid":1},{"bookingid":13},{"bookingid":9},{"bookingid":22},{"bookingid":15},{"bookingid":12},{"bookingid":24},{"bookingid":19},{"bookingid":20},{"bookingid":11},{"bookingid":5},{"bookingid":16},{"bookingid":14},{"bookingid":4}]
+2021-01-30 12:50:42 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [7, 6, 3, 2, 8, 10, 23, 17, 18, 21, 1, 13, 9, 22, 15, 12, 24, 19, 20, 11, 5, 16, 14, 4]
+2021-01-30 12:50:42 INFO  restful-Booking_APITesting:56 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 12:58:53 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 12:58:57 INFO  restful-Booking_APITesting:42 - Response of Booking ID :{"firstname":"Susan","lastname":"Wilson","totalprice":463,"depositpaid":true,"bookingdates":{"checkin":"2016-04-30","checkout":"2018-11-26"}}
+2021-01-30 12:58:57 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 13:34:50 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 13:34:54 INFO  restful-Booking_APITesting:27 - ***********  Checking statuscode **********
+2021-01-30 13:34:54 INFO  restful-Booking_APITesting:28 - Status Code :200
+2021-01-30 13:34:54 INFO  restful-Booking_APITesting:34 - ***********  Checking Respose Body **********
+2021-01-30 13:34:54 INFO  restful-Booking_APITesting:35 - Response Body==>{"bookingid":26,"booking":{"firstname":"JsonA","lastname":"RestN","totalprice":99553,"depositpaid":true,"bookingdates":{"checkin":"2022-03-11","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 13:34:54 INFO  restful-Booking_APITesting:64 - ***********  Get new Booking ID **********
+2021-01-30 13:34:55 INFO  restful-Booking_APITesting:74 - ***********  Create New Booking - Completed **********
+2021-01-30 13:43:46 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:27 - ***********  Checking statuscode **********
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:28 - Status Code :200
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:34 - ***********  Checking Respose Body **********
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:35 - Response Body==>{"bookingid":12,"booking":{"firstname":"JsonG","lastname":"RestX","totalprice":97218,"depositpaid":true,"bookingdates":{"checkin":"2022-07-15","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:64 - ***********  Get new Booking ID **********
+2021-01-30 13:43:50 INFO  restful-Booking_APITesting:74 - ***********  Create New Booking - Completed **********
+2021-01-30 13:46:44 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 13:46:48 INFO  restful-Booking_APITesting:27 - ***********  Checking statuscode **********
+2021-01-30 13:46:48 INFO  restful-Booking_APITesting:28 - Status Code :200
+2021-01-30 13:46:48 INFO  restful-Booking_APITesting:34 - ***********  Checking Respose Body **********
+2021-01-30 13:46:48 INFO  restful-Booking_APITesting:35 - Response Body==>{"bookingid":17,"booking":{"firstname":"Jsonn","lastname":"RestM","totalprice":59114,"depositpaid":true,"bookingdates":{"checkin":"2021-03-06","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 13:46:48 INFO  restful-Booking_APITesting:64 - ***********  Get new Booking ID **********
+2021-01-30 13:46:49 INFO  restful-Booking_APITesting:73 - ***********  Create New Booking - Completed **********
+2021-01-30 13:49:05 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 13:49:09 INFO  restful-Booking_APITesting:27 - ***********  Checking statuscode **********
+2021-01-30 13:49:09 INFO  restful-Booking_APITesting:28 - Status Code :200
+2021-01-30 13:49:09 INFO  restful-Booking_APITesting:34 - ***********  Checking Respose Body **********
+2021-01-30 13:49:09 INFO  restful-Booking_APITesting:35 - Response Body==>{"bookingid":18,"booking":{"firstname":"JsonV","lastname":"RestC","totalprice":68666,"depositpaid":true,"bookingdates":{"checkin":"2021-01-20","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 13:49:09 INFO  restful-Booking_APITesting:64 - ***********  Get new Booking ID **********
+2021-01-30 13:49:10 INFO  restful-Booking_APITesting:73 - ***********  Create New Booking - Completed **********
+2021-01-30 13:53:06 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 13:53:10 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 13:53:10 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 13:53:10 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 13:53:11 INFO  restful-Booking_APITesting:58 - Authtoken is generated :9c1a13322eef218
+2021-01-30 13:53:12 INFO  restful-Booking_APITesting:56 - ***********  Partial update Booking - Completed **********
+2021-01-30 13:53:57 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 13:54:01 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 13:54:01 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 13:54:01 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 13:54:01 INFO  restful-Booking_APITesting:58 - Authtoken is generated :589159eb43a9e95
+2021-01-30 13:54:03 INFO  restful-Booking_APITesting:56 - ***********  Partial update Booking - Completed **********
+2021-01-30 13:56:08 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 13:56:12 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 13:56:12 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 13:56:12 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 13:56:13 INFO  restful-Booking_APITesting:58 - Authtoken is generated :10914a25f18d54b
+2021-01-30 13:56:15 INFO  restful-Booking_APITesting:57 - ***********  Partial update Booking - Completed **********
+2021-01-30 13:57:23 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 13:57:28 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 13:57:28 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 13:57:28 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 13:57:28 INFO  restful-Booking_APITesting:58 - Authtoken is generated :cea9e14147bbd8d
+2021-01-30 13:57:30 INFO  restful-Booking_APITesting:57 - ***********  Partial update Booking - Completed **********
+2021-01-30 13:58:33 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 13:58:37 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 13:58:37 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 13:58:37 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 13:58:38 INFO  restful-Booking_APITesting:58 - Authtoken is generated :4b95d1ebc64b2f4
+2021-01-30 13:58:39 INFO  restful-Booking_APITesting:58 - ***********  Partial update Booking - Completed **********
+2021-01-30 14:00:48 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 14:00:52 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:00:52 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:00:52 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:00:53 INFO  restful-Booking_APITesting:58 - Authtoken is generated :3f789e059ee1393
+2021-01-30 14:00:55 INFO  restful-Booking_APITesting:59 - ***********  Partial update Booking - Completed **********
+2021-01-30 14:01:46 INFO  restful-Booking_APITesting:22 - ***********  Partial update Booking - Started **********
+2021-01-30 14:01:50 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:01:50 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:01:50 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:01:51 INFO  restful-Booking_APITesting:58 - Authtoken is generated :65047c06e6088f5
+2021-01-30 14:01:52 INFO  restful-Booking_APITesting:59 - ***********  Partial update Booking - Completed **********
+2021-01-30 14:16:16 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":20,"booking":{"firstname":"Json1O","lastname":"Rest1Z","totalprice":89034,"depositpaid":true,"bookingdates":{"checkin":"2022-08-13","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :20
+2021-01-30 14:16:21 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 14:17:45 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 14:17:49 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:17:49 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:17:49 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:17:49 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":24,"booking":{"firstname":"Json1h","lastname":"Rest1X","totalprice":32463,"depositpaid":true,"bookingdates":{"checkin":"2021-06-29","checkout":"2021-09-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 14:17:49 INFO  restful-Booking_APITesting:64 - ***********  Get new Booking ID **********
+2021-01-30 14:17:50 INFO  restful-Booking_APITesting:66 - Booking_Id is generated :24
+2021-01-30 14:17:50 INFO  restful-Booking_APITesting:73 - ***********  Create New Booking - Completed **********
+2021-01-30 14:19:32 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 14:19:36 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:19:36 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:19:36 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:19:36 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":27,"booking":{"firstname":"Json1x","lastname":"Rest1u","totalprice":98013,"depositpaid":true,"bookingdates":{"checkin":"2022-04-12","checkout":"2021-01-10"},"additionalneeds":"IdlyVada"}}
+2021-01-30 14:19:36 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 14:19:37 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :27
+2021-01-30 14:19:37 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 14:20:48 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 14:20:52 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:20:52 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:20:52 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:20:52 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1x","lastname":"Rest1u","totalprice":98013,"depositpaid":true,"bookingdates":{"checkin":"2022-04-12","checkout":"2021-01-10"},"additionalneeds":"IdlyVada"}
+2021-01-30 14:20:52 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 14:28:11 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:28:17 INFO  restful-Booking_APITesting:40 - ***********  Checking Respose  **********
+2021-01-30 14:28:17 INFO  restful-Booking_APITesting:59 - ***********  Checking statuscode **********
+2021-01-30 14:28:17 INFO  restful-Booking_APITesting:68 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:31:14 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:31:19 INFO  restful-Booking_APITesting:40 - ***********  Checking Respose  **********
+2021-01-30 14:31:19 INFO  restful-Booking_APITesting:59 - ***********  Checking statuscode **********
+2021-01-30 14:31:19 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:33:02 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:33:06 INFO  restful-Booking_APITesting:40 - ***********  Checking Respose  **********
+2021-01-30 14:33:06 INFO  restful-Booking_APITesting:59 - ***********  Checking statuscode **********
+2021-01-30 14:33:06 INFO  restful-Booking_APITesting:74 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:34:06 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:34:09 INFO  restful-Booking_APITesting:40 - ***********  Checking Respose  **********
+2021-01-30 14:34:09 INFO  restful-Booking_APITesting:59 - ***********  Checking statuscode **********
+2021-01-30 14:34:09 INFO  restful-Booking_APITesting:75 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:35:16 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:35:20 INFO  restful-Booking_APITesting:40 - ***********  Checking Respose  **********
+2021-01-30 14:35:20 INFO  restful-Booking_APITesting:59 - ***********  Checking statuscode **********
+2021-01-30 14:35:20 INFO  restful-Booking_APITesting:65 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:37:04 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:37:04 INFO  restful-Booking_APITesting:65 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:40:08 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:40:11 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:40:11 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:40:11 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:40:12 INFO  restful-Booking_APITesting:58 - Authtoken is generated :243946396aaaaef
+2021-01-30 14:40:13 INFO  restful-Booking_APITesting:75 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:40:37 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1Z","lastname":"Rest1t","totalprice":92803,"depositpaid":true,"bookingdates":{"checkin":"2022-06-02","checkout":"2021-10-16"},"additionalneeds":"IdlyVada"}}
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :11
+2021-01-30 14:40:40 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 14:40:52 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:40:55 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:40:55 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:40:55 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:40:55 INFO  restful-Booking_APITesting:58 - Authtoken is generated :480289a91f37b37
+2021-01-30 14:40:57 INFO  restful-Booking_APITesting:75 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:42:26 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:42:28 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:42:28 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:42:28 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:42:29 INFO  restful-Booking_APITesting:58 - Authtoken is generated :d8395013b0cf984
+2021-01-30 14:42:30 INFO  restful-Booking_APITesting:75 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:42:56 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:42:58 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:42:58 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:42:58 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:42:59 INFO  restful-Booking_APITesting:58 - Authtoken is generated :a22e3c1d2f455b6
+2021-01-30 14:43:00 INFO  restful-Booking_APITesting:75 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:45:33 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:45:36 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:45:36 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:45:36 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:45:37 INFO  restful-Booking_APITesting:58 - Authtoken is generated :eb6ba14f78312d2
+2021-01-30 14:45:38 INFO  restful-Booking_APITesting:78 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:47:24 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 14:47:26 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:47:26 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 14:47:26 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 14:47:26 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":17,"booking":{"firstname":"Json1t","lastname":"Rest1G","totalprice":34145,"depositpaid":true,"bookingdates":{"checkin":"2022-11-15","checkout":"2022-06-17"},"additionalneeds":"IdlyVada"}}
+2021-01-30 14:47:26 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 14:47:27 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :17
+2021-01-30 14:47:27 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 14:47:37 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 14:47:40 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:47:40 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:47:40 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:47:41 INFO  restful-Booking_APITesting:58 - Authtoken is generated :078c23e504e118f
+2021-01-30 14:47:42 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 14:55:06 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 14:55:08 INFO  restful-Booking_APITesting:49 - ***********  Checking statuscode **********
+2021-01-30 14:55:08 INFO  restful-Booking_APITesting:51 - Status Code :200
+2021-01-30 14:55:08 INFO  restful-Booking_APITesting:54 - ***********  Checking Token **********
+2021-01-30 14:55:09 INFO  restful-Booking_APITesting:58 - Authtoken is generated :42f369b49064141
+2021-01-30 14:55:10 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 14:55:10 INFO  restful-Booking_APITesting:26 - Status Code :201
+2021-01-30 14:55:10 INFO  restful-Booking_APITesting:67 - ***********  Delete Booking - Completed **********
+2021-01-30 15:12:16 INFO  restful-Booking_APITesting:16 - ***********  Ping API - Started **********
+2021-01-30 15:12:19 INFO  restful-Booking_APITesting:31 - Ping API -Health Status is 201
+2021-01-30 15:33:01 INFO  restful-Booking_APITesting:23 - ***********  Capture Auth Token - Started **********
+2021-01-30 15:33:04 INFO  restful-Booking_APITesting:50 - ***********  Checking statuscode **********
+2021-01-30 15:33:04 INFO  restful-Booking_APITesting:52 - Status Code :200
+2021-01-30 15:33:04 INFO  restful-Booking_APITesting:55 - ***********  Checking Token **********
+2021-01-30 15:33:04 INFO  restful-Booking_APITesting:59 - Authtoken is generated :0feb6a6518370c7
+2021-01-30 15:33:04 INFO  restful-Booking_APITesting:74 - ***********  Capture Auth Token - Completed**********
+2021-01-30 15:33:52 INFO  restful-Booking_APITesting:23 - ***********  Capture Auth Token - Started **********
+2021-01-30 15:33:55 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:33:55 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:33:55 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:33:55 INFO  restful-Booking_APITesting:60 - Authtoken is generated :480cd71bfea3de4
+2021-01-30 15:33:55 INFO  restful-Booking_APITesting:75 - ***********  Capture Auth Token - Completed**********
+2021-01-30 15:46:41 INFO  restful-Booking_APITesting:23 - ***********  Capture Auth Token - Started **********
+2021-01-30 15:46:44 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:46:44 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:46:44 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:46:44 INFO  restful-Booking_APITesting:60 - Authtoken is generated :f204638e1826069
+2021-01-30 15:46:44 INFO  restful-Booking_APITesting:75 - ***********  Capture Auth Token - Completed**********
+2021-01-30 15:50:29 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 15:50:31 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:50:31 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:50:31 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:31 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":3},{"bookingid":12},{"bookingid":13},{"bookingid":6},{"bookingid":2},{"bookingid":11},{"bookingid":4},{"bookingid":5},{"bookingid":7},{"bookingid":9},{"bookingid":14},{"bookingid":8},{"bookingid":1},{"bookingid":10}]
+2021-01-30 15:50:32 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [3, 12, 13, 6, 2, 11, 4, 5, 7, 9, 14, 8, 1, 10]
+2021-01-30 15:50:32 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 15:50:32 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Susan","lastname":"Brown","totalprice":450,"depositpaid":true,"bookingdates":{"checkin":"2016-01-03","checkout":"2017-10-03"},"additionalneeds":"Breakfast"}
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 15:50:33 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":15,"booking":{"firstname":"Json1N","lastname":"Rest1Q","totalprice":69552,"depositpaid":true,"bookingdates":{"checkin":"2022-09-29","checkout":"2022-12-03"},"additionalneeds":"IdlyVada"}}
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :15
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 15:50:35 INFO  restful-Booking_APITesting:25 - ***********  Partial update Booking - Started **********
+2021-01-30 15:50:36 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:50:36 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:50:36 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:50:36 INFO  restful-Booking_APITesting:60 - Authtoken is generated :9b2416d0ceb660e
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_UJ","lastname":"Rest_UA","totalprice":450,"depositpaid":true,"bookingdates":{"checkin":"2016-01-03","checkout":"2017-10-03"},"additionalneeds":"Breakfast"}
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:75 - ***********  Partial update Booking - Completed **********
+2021-01-30 15:50:37 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 15:50:39 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:50:39 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:50:39 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:50:39 INFO  restful-Booking_APITesting:60 - Authtoken is generated :29c8eb284a1e7be
+2021-01-30 15:50:40 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 15:50:40 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 15:50:41 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:50:41 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:50:41 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:50:41 INFO  restful-Booking_APITesting:60 - Authtoken is generated :a93e428424dcfbe
+2021-01-30 15:50:43 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:43 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 15:50:44 INFO  restful-Booking_APITesting:56 - Deleted record :201
+2021-01-30 15:50:44 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:50:44 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 15:50:44 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 15:55:11 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 15:55:14 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:55:14 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:55:14 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:14 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":5},{"bookingid":10},{"bookingid":3},{"bookingid":6},{"bookingid":4},{"bookingid":7},{"bookingid":8},{"bookingid":1},{"bookingid":2},{"bookingid":9}]
+2021-01-30 15:55:15 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [5, 10, 3, 6, 4, 7, 8, 1, 2, 9]
+2021-01-30 15:55:15 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 15:55:15 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Susan","lastname":"Jackson","totalprice":793,"depositpaid":false,"bookingdates":{"checkin":"2016-07-28","checkout":"2017-10-01"}}
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 15:55:16 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1r","lastname":"Rest1u","totalprice":78763,"depositpaid":true,"bookingdates":{"checkin":"2022-04-26","checkout":"2022-01-11"},"additionalneeds":"IdlyVada"}}
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :11
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 15:55:18 INFO  restful-Booking_APITesting:25 - ***********  Partial update Booking - Started **********
+2021-01-30 15:55:19 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:55:19 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:55:19 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:55:19 INFO  restful-Booking_APITesting:60 - Authtoken is generated :df159091c1baece
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Un","lastname":"Rest_UR","totalprice":793,"depositpaid":false,"bookingdates":{"checkin":"2016-07-28","checkout":"2017-10-01"}}
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:75 - ***********  Partial update Booking - Completed **********
+2021-01-30 15:55:21 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 15:55:22 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:55:22 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:55:22 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:55:22 INFO  restful-Booking_APITesting:60 - Authtoken is generated :4c26e6592b3e4bc
+2021-01-30 15:55:24 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 15:55:24 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 15:55:25 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:55:25 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:55:25 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:55:25 INFO  restful-Booking_APITesting:60 - Authtoken is generated :433b4e9d8908f58
+2021-01-30 15:55:26 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:26 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 15:55:28 INFO  restful-Booking_APITesting:56 - Deleted record :201
+2021-01-30 15:55:28 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:55:28 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 15:55:28 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 15:58:48 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 15:58:50 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:58:50 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:58:50 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:58:50 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":12},{"bookingid":5},{"bookingid":10},{"bookingid":6},{"bookingid":4},{"bookingid":7},{"bookingid":8},{"bookingid":1},{"bookingid":2},{"bookingid":11},{"bookingid":9}]
+2021-01-30 15:58:51 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [12, 5, 10, 6, 4, 7, 8, 1, 2, 11, 9]
+2021-01-30 15:58:51 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 15:58:51 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 15:58:52 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 15:58:52 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":13,"booking":{"firstname":"Json1j","lastname":"Rest1a","totalprice":75414,"depositpaid":true,"bookingdates":{"checkin":"2022-07-19","checkout":"2021-08-15"},"additionalneeds":"IdlyVada"}}
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :13
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 15:58:53 INFO  restful-Booking_APITesting:25 - ***********  Partial update Booking - Started **********
+2021-01-30 15:58:55 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:58:55 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:58:55 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:58:55 INFO  restful-Booking_APITesting:60 - Authtoken is generated :4eefa486b524efa
+2021-01-30 15:58:56 INFO  restful-Booking_APITesting:76 - ***********  Partial update Booking - Completed **********
+2021-01-30 15:58:56 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 15:58:57 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:58:57 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:58:57 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:58:57 INFO  restful-Booking_APITesting:60 - Authtoken is generated :faa5d8bae342ef6
+2021-01-30 15:58:58 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 15:58:58 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 15:59:00 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 15:59:00 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 15:59:00 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 15:59:00 INFO  restful-Booking_APITesting:60 - Authtoken is generated :9299e8ea1346224
+2021-01-30 15:59:01 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 16:02:59 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:03:01 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:03:01 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:03:01 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:03:02 INFO  restful-Booking_APITesting:60 - Authtoken is generated :d933ed81fde0844
+2021-01-30 16:03:03 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:04:06 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:04:08 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:04:08 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:04:08 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:04:08 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":11},{"bookingid":14},{"bookingid":12},{"bookingid":8},{"bookingid":2},{"bookingid":5},{"bookingid":9},{"bookingid":6},{"bookingid":3},{"bookingid":13},{"bookingid":7},{"bookingid":4},{"bookingid":10},{"bookingid":15},{"bookingid":1}]
+2021-01-30 16:04:09 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [11, 14, 12, 8, 2, 5, 9, 6, 3, 13, 7, 4, 10, 15, 1]
+2021-01-30 16:04:09 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:04:09 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Jim","lastname":"Ericsson","totalprice":823,"depositpaid":true,"bookingdates":{"checkin":"2016-12-31","checkout":"2019-02-18"},"additionalneeds":"Breakfast"}
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:04:10 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":16,"booking":{"firstname":"Json1T","lastname":"Rest1D","totalprice":83679,"depositpaid":true,"bookingdates":{"checkin":"2021-11-05","checkout":"2021-11-07"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :16
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 16:04:11 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:04:13 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:04:13 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:04:13 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:04:13 INFO  restful-Booking_APITesting:60 - Authtoken is generated :51672cc74088a42
+2021-01-30 16:04:14 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:04:14 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:04:15 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:04:15 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:04:15 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:04:15 INFO  restful-Booking_APITesting:60 - Authtoken is generated :f2f8da8cd0a595c
+2021-01-30 16:04:17 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:04:17 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:04:18 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:04:18 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:04:18 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:04:18 INFO  restful-Booking_APITesting:60 - Authtoken is generated :7423e33a1347b81
+2021-01-30 16:04:19 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:04:19 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:04:20 INFO  restful-Booking_APITesting:56 - Deleted record :201
+2021-01-30 16:04:20 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:04:20 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:04:20 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 16:36:14 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":6},{"bookingid":8},{"bookingid":4},{"bookingid":3},{"bookingid":1},{"bookingid":7},{"bookingid":10},{"bookingid":2},{"bookingid":9},{"bookingid":5}]
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [6, 8, 4, 3, 1, 7, 10, 2, 9, 5]
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:36:17 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mark","lastname":"Wilson","totalprice":772,"depositpaid":false,"bookingdates":{"checkin":"2018-12-17","checkout":"2020-06-20"},"additionalneeds":"Breakfast"}
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:36:19 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1y","lastname":"Rest1x","totalprice":37336,"depositpaid":true,"bookingdates":{"checkin":"2021-08-23","checkout":"2021-05-07"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :11
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 16:36:20 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:36:21 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:36:21 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:36:21 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:36:21 INFO  restful-Booking_APITesting:60 - Authtoken is generated :c38c04037a810b3
+2021-01-30 16:36:23 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:36:23 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:36:24 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:36:24 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:36:24 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:36:24 INFO  restful-Booking_APITesting:60 - Authtoken is generated :55dac9308721687
+2021-01-30 16:36:25 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:36:26 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:36:27 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:36:27 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:36:27 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:36:27 INFO  restful-Booking_APITesting:60 - Authtoken is generated :22426172c05459c
+2021-01-30 16:36:28 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 16:37:20 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":6},{"bookingid":8},{"bookingid":4},{"bookingid":3},{"bookingid":1},{"bookingid":11},{"bookingid":7},{"bookingid":10},{"bookingid":2},{"bookingid":9},{"bookingid":5}]
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [6, 8, 4, 3, 1, 11, 7, 10, 2, 9, 5]
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:37:23 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mark","lastname":"Wilson","totalprice":772,"depositpaid":false,"bookingdates":{"checkin":"2018-12-17","checkout":"2020-06-20"},"additionalneeds":"Breakfast"}
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:37:25 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":12,"booking":{"firstname":"Json1E","lastname":"Rest1w","totalprice":68586,"depositpaid":true,"bookingdates":{"checkin":"2021-08-10","checkout":"2022-02-16"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:63 - ***********  Get new Booking ID **********
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:65 - Booking_Id is generated :12
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:72 - ***********  Create New Booking - Completed **********
+2021-01-30 16:37:26 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:37:27 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:37:27 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:37:27 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:37:27 INFO  restful-Booking_APITesting:60 - Authtoken is generated :6573831103cf8ff
+2021-01-30 16:37:29 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:37:29 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:37:30 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:37:30 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:37:30 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:37:30 INFO  restful-Booking_APITesting:60 - Authtoken is generated :7a96db0f2643a75
+2021-01-30 16:37:31 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:37:31 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:37:32 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:37:32 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:37:32 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:37:32 INFO  restful-Booking_APITesting:60 - Authtoken is generated :d923530aa6b94c1
+2021-01-30 16:37:34 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 16:45:30 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":15,"booking":{"firstname":"Json1w","lastname":"Rest1r","totalprice":84225,"depositpaid":true,"bookingdates":{"checkin":"2022-04-05","checkout":"2021-07-08"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :15
+2021-01-30 16:45:33 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 16:45:49 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:45:51 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:45:51 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:45:51 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:45:52 INFO  restful-Booking_APITesting:60 - Authtoken is generated :c4e4fd8492f52ef
+2021-01-30 16:45:53 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:46:37 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:46:40 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:46:40 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:46:40 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:46:40 INFO  restful-Booking_APITesting:60 - Authtoken is generated :9f07fb6df75f16a
+2021-01-30 16:46:42 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:46:48 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":1},{"bookingid":9},{"bookingid":2},{"bookingid":8},{"bookingid":14},{"bookingid":11},{"bookingid":5},{"bookingid":4},{"bookingid":13},{"bookingid":10},{"bookingid":7},{"bookingid":3},{"bookingid":12},{"bookingid":6},{"bookingid":15}]
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [1, 9, 2, 8, 14, 11, 5, 4, 13, 10, 7, 3, 12, 6, 15]
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:46:51 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Eric","lastname":"Brown","totalprice":548,"depositpaid":true,"bookingdates":{"checkin":"2016-02-25","checkout":"2020-07-13"}}
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:46:53 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":16,"booking":{"firstname":"Json1L","lastname":"Rest1f","totalprice":26393,"depositpaid":true,"bookingdates":{"checkin":"2022-04-18","checkout":"2022-12-09"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :16
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 16:46:54 INFO  restful-Booking_APITesting:30 - ***********  Partial update Booking - Started **********
+2021-01-30 16:46:55 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:46:55 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:46:55 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:46:56 INFO  restful-Booking_APITesting:60 - Authtoken is generated :4a85eff6ec316a2
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Un","lastname":"Rest_Ua","totalprice":26393,"depositpaid":true,"bookingdates":{"checkin":"2022-04-18","checkout":"2022-12-09"},"additionalneeds":"IdlyVada"}
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:82 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:46:57 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:46:58 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:46:58 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:46:58 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:46:58 INFO  restful-Booking_APITesting:60 - Authtoken is generated :c18920703c47eb0
+2021-01-30 16:46:59 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:46:59 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:47:01 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:47:01 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:47:01 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:47:01 INFO  restful-Booking_APITesting:60 - Authtoken is generated :e61685451108a1a
+2021-01-30 16:47:02 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:47:02 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:47:03 INFO  restful-Booking_APITesting:56 - Deleted record :201
+2021-01-30 16:47:03 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:47:03 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:47:03 INFO  restful-Booking_APITesting:65 - ***********  Delete Booking - Completed **********
+2021-01-30 16:49:08 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:49:10 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:49:10 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:49:10 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:10 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":1},{"bookingid":9},{"bookingid":2},{"bookingid":8},{"bookingid":14},{"bookingid":11},{"bookingid":5},{"bookingid":4},{"bookingid":13},{"bookingid":10},{"bookingid":7},{"bookingid":3},{"bookingid":12},{"bookingid":6},{"bookingid":15}]
+2021-01-30 16:49:11 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [1, 9, 2, 8, 14, 11, 5, 4, 13, 10, 7, 3, 12, 6, 15]
+2021-01-30 16:49:11 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:49:11 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Eric","lastname":"Brown","totalprice":548,"depositpaid":true,"bookingdates":{"checkin":"2016-02-25","checkout":"2020-07-13"}}
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:49:12 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":17,"booking":{"firstname":"Json1o","lastname":"Rest1t","totalprice":79857,"depositpaid":true,"bookingdates":{"checkin":"2021-09-09","checkout":"2021-06-13"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :17
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 16:49:13 INFO  restful-Booking_APITesting:21 - ***********  Partial update Booking - Started **********
+2021-01-30 16:49:15 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:49:15 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:49:15 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:49:15 INFO  restful-Booking_APITesting:60 - Authtoken is generated :63f8afaf72be236
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Uz","lastname":"Rest_UM","totalprice":79857,"depositpaid":true,"bookingdates":{"checkin":"2021-09-09","checkout":"2021-06-13"},"additionalneeds":"IdlyVada"}
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:73 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:49:16 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:49:17 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:49:17 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:49:17 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:49:17 INFO  restful-Booking_APITesting:60 - Authtoken is generated :37a59beb2f98224
+2021-01-30 16:49:19 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:49:19 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:49:20 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:49:20 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:49:20 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:49:20 INFO  restful-Booking_APITesting:60 - Authtoken is generated :56c4458749fc5c7
+2021-01-30 16:49:21 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:21 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:49:22 INFO  restful-Booking_APITesting:57 - Deleted record :201
+2021-01-30 16:49:22 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:49:22 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:49:22 INFO  restful-Booking_APITesting:66 - ***********  Delete Booking - Completed **********
+2021-01-30 16:51:26 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 16:51:28 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:51:28 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:51:28 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:28 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":1},{"bookingid":9},{"bookingid":2},{"bookingid":8},{"bookingid":14},{"bookingid":11},{"bookingid":5},{"bookingid":4},{"bookingid":13},{"bookingid":10},{"bookingid":7},{"bookingid":3},{"bookingid":12},{"bookingid":6},{"bookingid":15}]
+2021-01-30 16:51:29 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [1, 9, 2, 8, 14, 11, 5, 4, 13, 10, 7, 3, 12, 6, 15]
+2021-01-30 16:51:29 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 16:51:29 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Eric","lastname":"Brown","totalprice":548,"depositpaid":true,"bookingdates":{"checkin":"2016-02-25","checkout":"2020-07-13"}}
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 16:51:30 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":18,"booking":{"firstname":"Json1o","lastname":"Rest1L","totalprice":45115,"depositpaid":true,"bookingdates":{"checkin":"2021-09-12","checkout":"2022-10-16"},"additionalneeds":"IdlyVada"}}
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :18
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 16:51:32 INFO  restful-Booking_APITesting:21 - ***********  Partial update Booking - Started **********
+2021-01-30 16:51:33 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:51:33 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:51:33 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:51:33 INFO  restful-Booking_APITesting:60 - Authtoken is generated :e88e8e0c3ac6002
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Um","lastname":"Rest_Ut","totalprice":45115,"depositpaid":true,"bookingdates":{"checkin":"2021-09-12","checkout":"2022-10-16"},"additionalneeds":"IdlyVada"}
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:73 - ***********  Partial update Booking - Completed **********
+2021-01-30 16:51:34 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 16:51:36 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:51:36 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:51:36 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:51:36 INFO  restful-Booking_APITesting:60 - Authtoken is generated :cd1876e43e69d83
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1w","lastname":"Rest1S","totalprice":39241,"depositpaid":true,"bookingdates":{"checkin":"2021-02-06","checkout":"2022-08-02"},"additionalneeds":"Oktoberfest"}
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 16:51:37 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 16:51:38 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 16:51:38 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 16:51:38 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 16:51:38 INFO  restful-Booking_APITesting:60 - Authtoken is generated :65eaa929cc815b5
+2021-01-30 16:51:39 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:39 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:51:41 INFO  restful-Booking_APITesting:57 - Deleted record :201
+2021-01-30 16:51:41 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 16:51:41 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 16:51:41 INFO  restful-Booking_APITesting:66 - ***********  Delete Booking - Completed **********
+2021-01-30 17:46:26 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 17:46:29 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:46:29 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:46:29 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:29 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":14},{"bookingid":8},{"bookingid":10},{"bookingid":2},{"bookingid":4},{"bookingid":1},{"bookingid":11},{"bookingid":7},{"bookingid":5},{"bookingid":6},{"bookingid":9},{"bookingid":3},{"bookingid":12},{"bookingid":13}]
+2021-01-30 17:46:30 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [14, 8, 10, 2, 4, 1, 11, 7, 5, 6, 9, 3, 12, 13]
+2021-01-30 17:46:30 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 17:46:30 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Susan","lastname":"Ericsson","totalprice":215,"depositpaid":true,"bookingdates":{"checkin":"2018-04-15","checkout":"2020-03-22"},"additionalneeds":"Breakfast"}
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 17:46:31 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":15,"booking":{"firstname":"Json1q","lastname":"Rest1X","totalprice":74279,"depositpaid":true,"bookingdates":{"checkin":"2021-11-14","checkout":"2022-02-23"},"additionalneeds":"IdlyVada"}}
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :15
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 17:46:32 INFO  restful-Booking_APITesting:21 - ***********  Partial update Booking - Started **********
+2021-01-30 17:46:34 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:46:34 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:46:34 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:46:34 INFO  restful-Booking_APITesting:60 - Authtoken is generated :272b987c985d0c6
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ub","lastname":"Rest_UQ","totalprice":74279,"depositpaid":true,"bookingdates":{"checkin":"2021-11-14","checkout":"2022-02-23"},"additionalneeds":"IdlyVada"}
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:73 - ***********  Partial update Booking - Completed **********
+2021-01-30 17:46:35 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 17:46:36 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:46:36 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:46:36 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:46:36 INFO  restful-Booking_APITesting:60 - Authtoken is generated :e18cc70bb407026
+2021-01-30 17:46:37 INFO  restful-Booking_APITesting:73 - ***********  Update details of Booking - Completed **********
+2021-01-30 17:46:37 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 17:46:39 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:46:39 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:46:39 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:46:39 INFO  restful-Booking_APITesting:60 - Authtoken is generated :ea410208a884ae8
+2021-01-30 17:46:40 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:40 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 17:46:41 INFO  restful-Booking_APITesting:57 - Deleted record :201
+2021-01-30 17:46:41 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:46:41 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 17:46:41 INFO  restful-Booking_APITesting:66 - ***********  Delete Booking - Completed **********
+2021-01-30 17:50:11 INFO  restful-Booking_APITesting:20 - ***********  Get Booking Ids - Started **********
+2021-01-30 17:50:13 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:50:13 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:50:13 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:13 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":14},{"bookingid":8},{"bookingid":10},{"bookingid":2},{"bookingid":4},{"bookingid":1},{"bookingid":11},{"bookingid":7},{"bookingid":5},{"bookingid":6},{"bookingid":9},{"bookingid":3},{"bookingid":12},{"bookingid":13}]
+2021-01-30 17:50:14 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [14, 8, 10, 2, 4, 1, 11, 7, 5, 6, 9, 3, 12, 13]
+2021-01-30 17:50:14 INFO  restful-Booking_APITesting:47 - ***********  Get Booking Ids  - Completed**********
+2021-01-30 17:50:14 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Susan","lastname":"Ericsson","totalprice":215,"depositpaid":true,"bookingdates":{"checkin":"2018-04-15","checkout":"2020-03-22"},"additionalneeds":"Breakfast"}
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 17:50:15 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 17:50:16 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:50:16 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":16,"booking":{"firstname":"Json1r","lastname":"Rest1V","totalprice":56214,"depositpaid":true,"bookingdates":{"checkin":"2022-01-12","checkout":"2022-04-30"},"additionalneeds":"IdlyVada"}}
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :16
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 17:50:17 INFO  restful-Booking_APITesting:21 - ***********  Partial update Booking - Started **********
+2021-01-30 17:50:18 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:50:18 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:50:18 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:50:18 INFO  restful-Booking_APITesting:60 - Authtoken is generated :f5477da80fe54e8
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ut","lastname":"Rest_Um","totalprice":56214,"depositpaid":true,"bookingdates":{"checkin":"2022-01-12","checkout":"2022-04-30"},"additionalneeds":"IdlyVada"}
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:73 - ***********  Partial update Booking - Completed **********
+2021-01-30 17:50:19 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 17:50:20 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:50:20 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:50:20 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:50:20 INFO  restful-Booking_APITesting:60 - Authtoken is generated :f2c92e15043b3fc
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1T","lastname":"Rest1r","totalprice":18764,"depositpaid":true,"bookingdates":{"checkin":"2021-04-15","checkout":"2022-01-20"},"additionalneeds":"Oktoberfest"}
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:72 - ***********  Update details of Booking - Completed **********
+2021-01-30 17:50:21 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 17:50:23 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 17:50:23 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 17:50:23 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 17:50:23 INFO  restful-Booking_APITesting:60 - Authtoken is generated :f4a55d8dced49fc
+2021-01-30 17:50:24 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:24 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 17:50:25 INFO  restful-Booking_APITesting:57 - Deleted record :201
+2021-01-30 17:50:25 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 17:50:25 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 17:50:25 INFO  restful-Booking_APITesting:66 - ***********  Delete Booking - Completed **********
+2021-01-30 18:10:13 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 18:10:16 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 18:10:16 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 18:10:16 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:16 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":4},{"bookingid":3},{"bookingid":5},{"bookingid":15},{"bookingid":2},{"bookingid":8},{"bookingid":13},{"bookingid":12},{"bookingid":9},{"bookingid":10},{"bookingid":6},{"bookingid":11},{"bookingid":1},{"bookingid":7},{"bookingid":14}]
+2021-01-30 18:10:17 INFO  restful-Booking_APITesting:42 - List of Booking Ids: [4, 3, 5, 15, 2, 8, 13, 12, 9, 10, 6, 11, 1, 7, 14]
+2021-01-30 18:10:17 INFO  restful-Booking_APITesting:47 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 18:10:17 INFO  restful-Booking_APITesting:17 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mark","lastname":"Brown","totalprice":569,"depositpaid":true,"bookingdates":{"checkin":"2017-06-08","checkout":"2018-09-26"},"additionalneeds":"Breakfast"}
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:40 - ***********  Get Booking Details Using Booking ID- Completed**********
+2021-01-30 18:10:18 INFO  restful-Booking_APITesting:21 - ***********  Create New Booking - Started **********
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":16,"booking":{"firstname":"Json1F","lastname":"Rest1C","totalprice":95811,"depositpaid":true,"bookingdates":{"checkin":"2021-05-23","checkout":"2021-02-24"},"additionalneeds":"IdlyVada"}}
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:70 - ***********  Get new Booking ID **********
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:72 - Booking_Id is generated :16
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:79 - ***********  Create New Booking - Completed **********
+2021-01-30 18:10:20 INFO  restful-Booking_APITesting:21 - ***********  Partial update Booking - Started **********
+2021-01-30 18:10:21 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 18:10:21 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 18:10:21 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 18:10:21 INFO  restful-Booking_APITesting:60 - Authtoken is generated :452228fa1f28e2c
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_UP","lastname":"Rest_UU","totalprice":95811,"depositpaid":true,"bookingdates":{"checkin":"2021-05-23","checkout":"2021-02-24"},"additionalneeds":"IdlyVada"}
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:73 - ***********  Partial update Booking - Completed **********
+2021-01-30 18:10:22 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 18:10:24 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 18:10:24 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 18:10:24 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 18:10:24 INFO  restful-Booking_APITesting:60 - Authtoken is generated :3dfe64170102565
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:25 - ***********  Checking statuscode **********
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1R","lastname":"Rest1O","totalprice":60749,"depositpaid":true,"bookingdates":{"checkin":"2021-09-20","checkout":"2021-12-29"},"additionalneeds":"Oktoberfest"}
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:72 - ***********  Update details of Booking - Completed **********
+2021-01-30 18:10:25 INFO  restful-Booking_APITesting:17 - ***********  Delete Booking ID - Started **********
+2021-01-30 18:10:26 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 18:10:26 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 18:10:26 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 18:10:26 INFO  restful-Booking_APITesting:60 - Authtoken is generated :b759db4b10c46a0
+2021-01-30 18:10:27 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:27 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 18:10:29 INFO  restful-Booking_APITesting:57 - Deleted record :201
+2021-01-30 18:10:29 INFO  restful-Booking_APITesting:32 - ***********  Checking Respose Body **********
+2021-01-30 18:10:29 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 18:10:29 INFO  restful-Booking_APITesting:66 - ***********  Delete Booking - Completed **********
+2021-01-30 18:15:18 INFO  restful-Booking_APITesting:23 - ***********  Capture Auth Token - Started **********
+2021-01-30 18:15:21 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 18:15:22 INFO  restful-Booking_APITesting:51 - ***********  Checking statuscode **********
+2021-01-30 18:15:22 INFO  restful-Booking_APITesting:53 - Status Code :200
+2021-01-30 18:15:22 INFO  restful-Booking_APITesting:56 - ***********  Checking Token **********
+2021-01-30 18:15:23 INFO  restful-Booking_APITesting:60 - Authtoken is generated :52e853f39502f7b
+2021-01-30 18:15:23 INFO  restful-Booking_APITesting:75 - ***********  Capture Auth Token - Completed**********
+2021-01-30 19:24:56 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 19:24:59 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:24:59 INFO  restful-Booking_APITesting:61 - Authtoken is generated :929c2233ef639c3
+2021-01-30 19:25:01 INFO  restful-Booking_APITesting:81 - ***********  Update details of Booking - Completed **********
+2021-01-30 19:25:36 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 19:25:39 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:25:39 INFO  restful-Booking_APITesting:61 - Authtoken is generated :c62b1ff0d548e3b
+2021-01-30 19:25:40 INFO  restful-Booking_APITesting:81 - ***********  Update details of Booking - Completed **********
+2021-01-30 19:26:18 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 19:26:21 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:26:21 INFO  restful-Booking_APITesting:61 - Authtoken is generated :18ce5832e0a25d9
+2021-01-30 19:26:22 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:26:22 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1J","lastname":"Rest1p","totalprice":85343,"depositpaid":true,"bookingdates":{"checkin":"2022-05-10","checkout":"2022-05-10"},"additionalneeds":"IdlyVada"}
+2021-01-30 19:26:22 INFO  restful-Booking_APITesting:81 - ***********  Update details of Booking - Completed **********
+2021-01-30 19:30:11 INFO  restful-Booking_APITesting:20 - ***********  Update details of Booking - Started **********
+2021-01-30 19:30:13 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:30:14 INFO  restful-Booking_APITesting:61 - Authtoken is generated :7ed716cc69bda28
+2021-01-30 19:30:15 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:30:15 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1K","lastname":"Rest1p","totalprice":66827,"depositpaid":true,"bookingdates":{"checkin":"2022-02-16","checkout":"2022-02-16"},"additionalneeds":"IdlyVada"}
+2021-01-30 19:30:15 INFO  restful-Booking_APITesting:46 - Response Body validation{"firstname":"Json1K","lastname":"Rest1p","totalprice":66827,"depositpaid":true,"bookingdates":{"checkin":"2022-02-16","checkout":"2022-02-16"},"additionalneeds":"IdlyVada"}
+2021-01-30 19:30:15 INFO  restful-Booking_APITesting:82 - ***********  Update details of Booking - Completed **********
+2021-01-30 19:37:50 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 19:37:53 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:37:53 INFO  restful-Booking_APITesting:61 - Authtoken is generated :cf569709c326c48
+2021-01-30 19:37:54 INFO  restful-Booking_APITesting:74 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 19:38:34 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 19:38:37 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:38:38 INFO  restful-Booking_APITesting:61 - Authtoken is generated :f433570e6cf5d1c
+2021-01-30 19:38:39 INFO  restful-Booking_APITesting:61 - Partially updated booking details for booking ID :3
+2021-01-30 19:38:39 INFO  restful-Booking_APITesting:67 - Partially updated booking details for booking ID :3are firstname:Json_Ua and lastname :Rest_Uv
+2021-01-30 19:38:39 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:38:39 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ua","lastname":"Rest_Uv","totalprice":831,"depositpaid":false,"bookingdates":{"checkin":"2019-06-18","checkout":"2019-06-28"}}
+2021-01-30 19:38:39 INFO  restful-Booking_APITesting:74 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 19:43:38 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 19:43:41 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 19:43:41 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 19:43:42 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:43:42 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":7},{"bookingid":9},{"bookingid":3},{"bookingid":4},{"bookingid":10},{"bookingid":11},{"bookingid":5},{"bookingid":6},{"bookingid":2},{"bookingid":1},{"bookingid":8}]
+2021-01-30 19:43:43 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [7, 9, 3, 4, 10, 11, 5, 6, 2, 1, 8]
+2021-01-30 19:43:43 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 19:43:43 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 19:43:44 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:43:44 INFO  restful-Booking_APITesting:36 - Booking Details of booking Id :3
+2021-01-30 19:43:44 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mary","lastname":"Jones","totalprice":316,"depositpaid":false,"bookingdates":{"checkin":"2018-09-11","checkout":"2020-04-08"}}
+2021-01-30 19:43:44 INFO  restful-Booking_APITesting:42 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 19:43:44 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :12
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:12
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":12,"booking":{"firstname":"Json1A","lastname":"Rest1v","totalprice":75298,"depositpaid":true,"bookingdates":{"checkin":"2021-03-24","checkout":"2022-06-17"},"additionalneeds":"IdlyVada"}}
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:89 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 19:43:45 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 19:43:47 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:43:47 INFO  restful-Booking_APITesting:61 - Authtoken is generated :cc8e029bf21dcf7
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :3
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :3 are firstname:Json_Ur and lastname :Rest_UC
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ur","lastname":"Rest_UC","totalprice":316,"depositpaid":false,"bookingdates":{"checkin":"2018-09-11","checkout":"2020-04-08"}}
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 19:43:48 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 19:43:49 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:43:49 INFO  restful-Booking_APITesting:61 - Authtoken is generated :511acbedf8b2ae6
+2021-01-30 19:43:51 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:43:51 INFO  restful-Booking_APITesting:74 - updated bookinf details of ID :3
+2021-01-30 19:43:51 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1k","lastname":"Rest1V","totalprice":4400,"depositpaid":true,"bookingdates":{"checkin":"2022-03-11","checkout":"2022-03-11"},"additionalneeds":"breakfast1"}
+2021-01-30 19:43:51 INFO  restful-Booking_APITesting:84 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 19:43:51 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 19:43:52 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 19:43:52 INFO  restful-Booking_APITesting:61 - Authtoken is generated :a2cec6a073c21e8
+2021-01-30 19:43:53 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :3 status code is 201
+2021-01-30 19:43:54 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 19:43:54 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 19:43:54 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********
+2021-01-30 19:57:34 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 19:57:37 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 19:57:37 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :13
+2021-01-30 19:57:37 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:13
+2021-01-30 19:57:37 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":13,"booking":{"firstname":"Json1d","lastname":"Rest1L","totalprice":1703,"depositpaid":true,"bookingdates":{"checkin":"2022-08-21","checkout":"2021-01-18"},"additionalneeds":"IdlyVada"}}
+2021-01-30 19:57:37 INFO  restful-Booking_APITesting:89 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:07:13 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:07:16 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:07:16 INFO  restful-Booking_APITesting:61 - Authtoken is generated :515d54367f189a6
+2021-01-30 20:07:18 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:07:18 INFO  restful-Booking_APITesting:74 - updated bookinf details of ID :3
+2021-01-30 20:07:18 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1C","lastname":"Rest1H","totalprice":71149,"depositpaid":true,"bookingdates":{"checkin":"2022-06-12","checkout":"2022-06-12"},"additionalneeds":"breakfast1"}
+2021-01-30 20:07:18 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:08:41 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 20:08:43 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:08:43 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 20:08:45 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:08:45 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":2},{"bookingid":4},{"bookingid":7},{"bookingid":3},{"bookingid":5},{"bookingid":6},{"bookingid":10},{"bookingid":8},{"bookingid":1},{"bookingid":9}]
+2021-01-30 20:08:45 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [2, 4, 7, 3, 5, 6, 10, 8, 1, 9]
+2021-01-30 20:08:45 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 20:08:45 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:08:46 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:08:46 INFO  restful-Booking_APITesting:36 - Booking Details of booking Id :3
+2021-01-30 20:08:46 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1C","lastname":"Rest1H","totalprice":71149,"depositpaid":true,"bookingdates":{"checkin":"2022-06-12","checkout":"2022-06-12"},"additionalneeds":"breakfast1"}
+2021-01-30 20:08:46 INFO  restful-Booking_APITesting:42 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:08:46 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :11
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:11
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1R","lastname":"Rest1h","totalprice":16127,"depositpaid":true,"bookingdates":{"checkin":"2021-06-14","checkout":"2022-02-03"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:89 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:08:48 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 20:08:49 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:08:49 INFO  restful-Booking_APITesting:61 - Authtoken is generated :1ebb9c7e43d2a96
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :3
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :3 are firstname:Json_UH and lastname :Rest_Up
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_UH","lastname":"Rest_Up","totalprice":71149,"depositpaid":true,"bookingdates":{"checkin":"2022-06-12","checkout":"2022-06-12"},"additionalneeds":"breakfast1"}
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 20:08:50 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:08:52 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:08:52 INFO  restful-Booking_APITesting:61 - Authtoken is generated :dafc32539d7ac38
+2021-01-30 20:08:53 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:08:53 INFO  restful-Booking_APITesting:74 - updated booking details of ID :3
+2021-01-30 20:08:53 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1s","lastname":"Rest1X","totalprice":4211,"depositpaid":true,"bookingdates":{"checkin":"2021-05-19","checkout":"2021-05-19"},"additionalneeds":"breakfast1"}
+2021-01-30 20:08:53 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:08:53 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 20:08:54 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:08:54 INFO  restful-Booking_APITesting:61 - Authtoken is generated :adabc274ede947b
+2021-01-30 20:08:55 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :3 status code is 201
+2021-01-30 20:08:57 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 20:08:57 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 20:08:57 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********
+2021-01-30 20:09:35 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:09:38 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:09:39 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :12
+2021-01-30 20:09:39 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:12
+2021-01-30 20:09:39 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":12,"booking":{"firstname":"Json1k","lastname":"Rest1o","totalprice":48693,"depositpaid":true,"bookingdates":{"checkin":"2022-10-21","checkout":"2021-12-13"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:09:39 INFO  restful-Booking_APITesting:89 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:14:29 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 20:14:32 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:14:32 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 20:14:34 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:14:34 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":8},{"bookingid":10},{"bookingid":6},{"bookingid":5},{"bookingid":3},{"bookingid":1},{"bookingid":4},{"bookingid":9},{"bookingid":2},{"bookingid":7}]
+2021-01-30 20:14:34 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [8, 10, 6, 5, 3, 1, 4, 9, 2, 7]
+2021-01-30 20:14:34 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 20:14:34 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:14:36 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:14:36 INFO  restful-Booking_APITesting:36 - Booking Details of booking Id :3
+2021-01-30 20:14:36 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mark","lastname":"Brown","totalprice":387,"depositpaid":true,"bookingdates":{"checkin":"2018-01-04","checkout":"2018-03-14"}}
+2021-01-30 20:14:36 INFO  restful-Booking_APITesting:42 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:14:36 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :11
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:11
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1q","lastname":"Rest1s","totalprice":44374,"depositpaid":true,"bookingdates":{"checkin":"2021-02-24","checkout":"2021-04-01"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:14:38 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 20:14:40 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:14:40 INFO  restful-Booking_APITesting:61 - Authtoken is generated :abf0149359ca800
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :3
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :3 are firstname:Json_UL and lastname :Rest_Uf
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_UL","lastname":"Rest_Uf","totalprice":387,"depositpaid":true,"bookingdates":{"checkin":"2018-01-04","checkout":"2018-03-14"}}
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 20:14:41 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:14:43 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:14:43 INFO  restful-Booking_APITesting:61 - Authtoken is generated :6b94fe744b90d72
+2021-01-30 20:14:45 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:14:45 INFO  restful-Booking_APITesting:74 - Updated booking details of ID :3
+2021-01-30 20:14:45 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1b","lastname":"Rest1L","totalprice":78706,"depositpaid":true,"bookingdates":{"checkin":"2021-04-10","checkout":"2021-04-10"},"additionalneeds":"breakfast1"}
+2021-01-30 20:14:45 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:14:45 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 20:14:46 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:14:46 INFO  restful-Booking_APITesting:61 - Authtoken is generated :f98d9eed00eade2
+2021-01-30 20:14:47 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :3 status code is 201
+2021-01-30 20:14:49 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 20:14:49 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 20:14:49 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********
+2021-01-30 20:19:13 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:19:16 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:19:16 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :17
+2021-01-30 20:19:16 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:17
+2021-01-30 20:19:16 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":17,"booking":{"firstname":"Json1V","lastname":"Rest1A","totalprice":99487,"depositpaid":true,"bookingdates":{"checkin":"2021-05-31","checkout":"2021-10-25"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:19:16 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:20:08 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:20:11 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:20:11 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :18
+2021-01-30 20:20:11 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:18
+2021-01-30 20:20:11 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":18,"booking":{"firstname":"Json1M","lastname":"Rest1s","totalprice":3110,"depositpaid":true,"bookingdates":{"checkin":"2021-03-12","checkout":"2022-04-25"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:20:11 INFO  restful-Booking_APITesting:92 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:21:44 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:21:48 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:21:48 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :19
+2021-01-30 20:21:48 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:19
+2021-01-30 20:21:48 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":19,"booking":{"firstname":"Json1S","lastname":"Rest1S","totalprice":90895,"depositpaid":true,"bookingdates":{"checkin":"2022-12-21","checkout":"2022-08-04"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:21:48 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:22:12 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 20:22:16 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:22:16 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 20:22:17 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:22:17 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":11},{"bookingid":17},{"bookingid":8},{"bookingid":10},{"bookingid":6},{"bookingid":15},{"bookingid":5},{"bookingid":12},{"bookingid":16},{"bookingid":1},{"bookingid":4},{"bookingid":19},{"bookingid":9},{"bookingid":18},{"bookingid":2},{"bookingid":14},{"bookingid":7},{"bookingid":13}]
+2021-01-30 20:22:17 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [11, 17, 8, 10, 6, 15, 5, 12, 16, 1, 4, 19, 9, 18, 2, 14, 7, 13]
+2021-01-30 20:22:17 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 20:22:17 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:22:19 INFO  restful-Booking_APITesting:42 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:22:19 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :20
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:20
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":20,"booking":{"firstname":"Json1d","lastname":"Rest1l","totalprice":29161,"depositpaid":true,"bookingdates":{"checkin":"2021-03-07","checkout":"2022-12-05"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:22:20 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 20:22:21 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:22:21 INFO  restful-Booking_APITesting:61 - Authtoken is generated :89c956075b9b27b
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :20
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :20 are firstname:Json_Ut and lastname :Rest_Ut
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ut","lastname":"Rest_Ut","totalprice":29161,"depositpaid":true,"bookingdates":{"checkin":"2021-03-07","checkout":"2022-12-05"},"additionalneeds":"IdlyVada"}
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 20:22:23 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:22:24 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:22:24 INFO  restful-Booking_APITesting:61 - Authtoken is generated :aecd58b11214440
+2021-01-30 20:22:26 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:22:26 INFO  restful-Booking_APITesting:74 - Updated booking details of ID :20
+2021-01-30 20:22:26 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1Y","lastname":"Rest1j","totalprice":47085,"depositpaid":true,"bookingdates":{"checkin":"2021-03-18","checkout":"2021-03-18"},"additionalneeds":"breakfast1"}
+2021-01-30 20:22:26 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:22:26 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 20:22:27 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:22:27 INFO  restful-Booking_APITesting:61 - Authtoken is generated :777be9781fe8be0
+2021-01-30 20:22:29 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :20 status code is 201
+2021-01-30 20:22:30 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 20:22:30 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 20:22:30 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********
+2021-01-30 20:25:17 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:25:20 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:25:20 INFO  restful-Booking_APITesting:20 - API Health Check status - Ping true
+2021-01-30 20:25:21 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:21 INFO  restful-Booking_APITesting:38 - Booking Details of booking Id :3
+2021-01-30 20:25:21 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mary","lastname":"Ericsson","totalprice":469,"depositpaid":true,"bookingdates":{"checkin":"2019-02-22","checkout":"2019-08-21"}}
+2021-01-30 20:25:21 INFO  restful-Booking_APITesting:44 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:25:40 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 20:25:43 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:25:43 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 20:25:44 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:44 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":7},{"bookingid":4},{"bookingid":8},{"bookingid":9},{"bookingid":3},{"bookingid":5},{"bookingid":1},{"bookingid":10},{"bookingid":6},{"bookingid":2}]
+2021-01-30 20:25:45 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [7, 4, 8, 9, 3, 5, 1, 10, 6, 2]
+2021-01-30 20:25:45 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 20:25:45 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:25:46 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:25:46 INFO  restful-Booking_APITesting:20 - API Health Check status - Ping true
+2021-01-30 20:25:48 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:48 INFO  restful-Booking_APITesting:38 - Booking Details of booking Id :3
+2021-01-30 20:25:48 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mary","lastname":"Ericsson","totalprice":469,"depositpaid":true,"bookingdates":{"checkin":"2019-02-22","checkout":"2019-08-21"}}
+2021-01-30 20:25:48 INFO  restful-Booking_APITesting:44 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:25:48 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :11
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:11
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":11,"booking":{"firstname":"Json1L","lastname":"Rest1o","totalprice":5672,"depositpaid":true,"bookingdates":{"checkin":"2021-05-09","checkout":"2022-01-30"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:25:49 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 20:25:51 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:25:51 INFO  restful-Booking_APITesting:61 - Authtoken is generated :6e5bc6159c641bd
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :11
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :11 are firstname:Json_Ub and lastname :Rest_Ul
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_Ub","lastname":"Rest_Ul","totalprice":5672,"depositpaid":true,"bookingdates":{"checkin":"2021-05-09","checkout":"2022-01-30"},"additionalneeds":"IdlyVada"}
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 20:25:52 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:25:53 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:25:53 INFO  restful-Booking_APITesting:61 - Authtoken is generated :ec61fcf4dd8c037
+2021-01-30 20:25:55 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:25:55 INFO  restful-Booking_APITesting:74 - Updated booking details of ID :11
+2021-01-30 20:25:55 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1F","lastname":"Rest1R","totalprice":80874,"depositpaid":true,"bookingdates":{"checkin":"2022-11-27","checkout":"2022-11-27"},"additionalneeds":"breakfast1"}
+2021-01-30 20:25:55 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:25:55 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 20:25:57 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:25:57 INFO  restful-Booking_APITesting:61 - Authtoken is generated :01e2b96245618d3
+2021-01-30 20:25:58 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :11 status code is 201
+2021-01-30 20:25:59 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 20:25:59 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 20:25:59 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********
+2021-01-30 20:31:43 INFO  restful-Booking_APITesting:20 - *********** TC001 Get Booking Ids - Started **********
+2021-01-30 20:31:45 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:31:45 INFO  restful-Booking_APITesting:22 - API Health Check status - Ping true
+2021-01-30 20:31:47 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:31:47 INFO  restful-Booking_APITesting:33 - Response Body==>[{"bookingid":14},{"bookingid":7},{"bookingid":4},{"bookingid":15},{"bookingid":13},{"bookingid":8},{"bookingid":12},{"bookingid":9},{"bookingid":3},{"bookingid":5},{"bookingid":1},{"bookingid":10},{"bookingid":6},{"bookingid":2}]
+2021-01-30 20:31:47 INFO  restful-Booking_APITesting:43 - List of Booking Ids: [14, 7, 4, 15, 13, 8, 12, 9, 3, 5, 1, 10, 6, 2]
+2021-01-30 20:31:47 INFO  restful-Booking_APITesting:48 - ***********TC001  Get Booking Ids  - Completed**********
+2021-01-30 20:31:47 INFO  restful-Booking_APITesting:18 - ***********  Get Booking Details Using Booking ID - Started **********
+2021-01-30 20:31:48 INFO  restful-Booking_APITesting:36 - Ping API -Health Status is 201
+2021-01-30 20:31:48 INFO  restful-Booking_APITesting:20 - API Health Check status - Ping true
+2021-01-30 20:31:50 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:31:50 INFO  restful-Booking_APITesting:38 - Booking Details of booking Id :3
+2021-01-30 20:31:50 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Mary","lastname":"Ericsson","totalprice":469,"depositpaid":true,"bookingdates":{"checkin":"2019-02-22","checkout":"2019-08-21"}}
+2021-01-30 20:31:50 INFO  restful-Booking_APITesting:44 - *********** TC002 Get Booking Details Using Booking ID- Completed**********
+2021-01-30 20:31:50 INFO  restful-Booking_APITesting:21 - *********** TC003_1 Create New Booking - Started **********
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:78 - Booking_Id is generated :16
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:79 - New Booking Details with booking Id:16
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:33 - Response Body==>{"bookingid":16,"booking":{"firstname":"Json1Y","lastname":"Rest1n","totalprice":40198,"depositpaid":true,"bookingdates":{"checkin":"2021-04-02","checkout":"2022-09-02"},"additionalneeds":"IdlyVada"}}
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:90 - *********** TC003_1 Create New Booking - Completed **********
+2021-01-30 20:31:51 INFO  restful-Booking_APITesting:21 - ***********TC004  Partial update Booking - Started **********
+2021-01-30 20:31:52 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:31:52 INFO  restful-Booking_APITesting:61 - Authtoken is generated :66d6db886667df0
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:60 - Partially updated booking details for booking ID :16
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:66 - Partially updated booking details for booking ID :16 are firstname:Json_UV and lastname :Rest_UX
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json_UV","lastname":"Rest_UX","totalprice":40198,"depositpaid":true,"bookingdates":{"checkin":"2021-04-02","checkout":"2022-09-02"},"additionalneeds":"IdlyVada"}
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:73 - *********** TC004 Partial update Booking - Completed **********
+2021-01-30 20:31:54 INFO  restful-Booking_APITesting:20 - *********** TC005 Update details of Booking - Started **********
+2021-01-30 20:31:55 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:31:55 INFO  restful-Booking_APITesting:61 - Authtoken is generated :989dec204acf528
+2021-01-30 20:31:56 INFO  restful-Booking_APITesting:26 - Status Code :200
+2021-01-30 20:31:56 INFO  restful-Booking_APITesting:74 - Updated booking details of ID :16
+2021-01-30 20:31:56 INFO  restful-Booking_APITesting:33 - Response Body==>{"firstname":"Json1g","lastname":"Rest1J","totalprice":91804,"depositpaid":true,"bookingdates":{"checkin":"2022-03-26","checkout":"2022-03-26"},"additionalneeds":"breakfast1"}
+2021-01-30 20:31:56 INFO  restful-Booking_APITesting:83 - *********** TC005 Update details of Booking - Completed **********
+2021-01-30 20:31:56 INFO  restful-Booking_APITesting:17 - *********** TC006 Delete Booking ID - Started **********
+2021-01-30 20:31:57 INFO  restful-Booking_APITesting:54 - Status Code :200
+2021-01-30 20:31:57 INFO  restful-Booking_APITesting:61 - Authtoken is generated :19692ebb637d6d2
+2021-01-30 20:31:59 INFO  restful-Booking_APITesting:44 - Deleted booking with bookingid :16 status code is 201
+2021-01-30 20:32:00 INFO  restful-Booking_APITesting:59 - Verying the deleted booking with get request, status code is 201
+2021-01-30 20:32:00 INFO  restful-Booking_APITesting:33 - Response Body==>Created
+2021-01-30 20:32:00 INFO  restful-Booking_APITesting:65 - *********** TC006 Delete Booking - Completed **********

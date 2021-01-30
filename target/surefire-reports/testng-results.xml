@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17056" started-at="2021-01-30T20:31:43 IST" finished-at="2021-01-30T20:32:00 IST">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="17056" started-at="2021-01-30T20:31:43 IST" finished-at="2021-01-30T20:32:00 IST">
+      <class name="Testcases.TC002_GetBooking">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC002_GetBooking@6fc6f14e]" name="Init" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:47 IST" finished-at="2021-01-30T20:31:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC002_GetBooking@6fc6f14e]" name="beforeclass" is-config="true" duration-ms="1206" started-at="2021-01-30T20:31:47 IST" finished-at="2021-01-30T20:31:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="getBooking()[pri:2, instance:Testcases.TC002_GetBooking@6fc6f14e]" name="getBooking" duration-ms="1266" started-at="2021-01-30T20:31:48 IST" finished-at="2021-01-30T20:31:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooking -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC002_GetBooking@6fc6f14e]" name="afterclass" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:50 IST" finished-at="2021-01-30T20:31:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC002_GetBooking -->
+      <class name="Testcases.TC004_PartialUpdateBooking">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC004_PartialUpdateBooking@3632be31]" name="Init" is-config="true" duration-ms="2" started-at="2021-01-30T20:31:51 IST" finished-at="2021-01-30T20:31:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC004_PartialUpdateBooking@3632be31]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:51 IST" finished-at="2021-01-30T20:31:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="PartialUpdatebooking()[pri:4, instance:Testcases.TC004_PartialUpdateBooking@3632be31]" name="PartialUpdatebooking" duration-ms="2488" started-at="2021-01-30T20:31:51 IST" finished-at="2021-01-30T20:31:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PartialUpdatebooking -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC004_PartialUpdateBooking@3632be31]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:54 IST" finished-at="2021-01-30T20:31:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC004_PartialUpdateBooking -->
+      <class name="Testcases.TC003_1Create_Booking">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC003_1Create_Booking@56235b8e]" name="Init" is-config="true" duration-ms="2" started-at="2021-01-30T20:31:50 IST" finished-at="2021-01-30T20:31:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC003_1Create_Booking@56235b8e]" name="beforeclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:50 IST" finished-at="2021-01-30T20:31:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="New_booking()[pri:3, instance:Testcases.TC003_1Create_Booking@56235b8e]" name="New_booking" duration-ms="1458" started-at="2021-01-30T20:31:50 IST" finished-at="2021-01-30T20:31:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- New_booking -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC003_1Create_Booking@56235b8e]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:51 IST" finished-at="2021-01-30T20:31:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC003_1Create_Booking -->
+      <class name="Testcases.TC005_UpdateBooking">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC005_UpdateBooking@5abca1e0]" name="Init" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:54 IST" finished-at="2021-01-30T20:31:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC005_UpdateBooking@5abca1e0]" name="beforeclass" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:54 IST" finished-at="2021-01-30T20:31:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Updatebooking()[pri:5, instance:Testcases.TC005_UpdateBooking@5abca1e0]" name="Updatebooking" duration-ms="2498" started-at="2021-01-30T20:31:54 IST" finished-at="2021-01-30T20:31:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Updatebooking -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC005_UpdateBooking@5abca1e0]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:56 IST" finished-at="2021-01-30T20:31:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC005_UpdateBooking -->
+      <class name="Testcases.TC006_DeleteBooking">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC006_DeleteBooking@2286778]" name="Init" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:56 IST" finished-at="2021-01-30T20:31:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC006_DeleteBooking@2286778]" name="beforeclass" is-config="true" duration-ms="1" started-at="2021-01-30T20:31:56 IST" finished-at="2021-01-30T20:31:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Deletebooking()[pri:6, instance:Testcases.TC006_DeleteBooking@2286778]" name="Deletebooking" duration-ms="3769" started-at="2021-01-30T20:31:56 IST" finished-at="2021-01-30T20:32:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletebooking -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC006_DeleteBooking@2286778]" name="afterclass" is-config="true" duration-ms="1" started-at="2021-01-30T20:32:00 IST" finished-at="2021-01-30T20:32:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC006_DeleteBooking -->
+      <class name="Testcases.TC001_GetBookingIds">
+        <test-method status="PASS" signature="Init()[pri:0, instance:Testcases.TC001_GetBookingIds@20398b7c]" name="Init" is-config="true" duration-ms="43" started-at="2021-01-30T20:31:43 IST" finished-at="2021-01-30T20:31:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Testcases.TC001_GetBookingIds@20398b7c]" name="beforeclass" is-config="true" duration-ms="2546" started-at="2021-01-30T20:31:43 IST" finished-at="2021-01-30T20:31:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="getBookingIds()[pri:1, instance:Testcases.TC001_GetBookingIds@20398b7c]" name="getBookingIds" duration-ms="1741" started-at="2021-01-30T20:31:45 IST" finished-at="2021-01-30T20:31:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingIds -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Testcases.TC001_GetBookingIds@20398b7c]" name="afterclass" is-config="true" duration-ms="0" started-at="2021-01-30T20:31:47 IST" finished-at="2021-01-30T20:31:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Testcases.TC001_GetBookingIds -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Suite -->
+</testng-results>

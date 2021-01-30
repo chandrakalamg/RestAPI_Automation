@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Regression Test">
+    <classes>
+      <class name="Testcases.TC001_GetBookingIds"/>
+      <class name="Testcases.TC002_GetBooking"/>
+      <class name="Testcases.TC003_1Create_Booking"/>
+      <class name="Testcases.TC004_PartialUpdateBooking"/>
+       <class name="Testcases.TC005_UpdateBooking"/>
+      <class name="Testcases.TC006_DeleteBooking"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
